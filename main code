@@ -6,5 +6,6 @@ using namespace std;
 int main() {
   cout << "Hello World! \n \n";
   cout << "Welcome to my reality.";
+  cout << "Welcome to my second reality.";
   return 0;
 }
